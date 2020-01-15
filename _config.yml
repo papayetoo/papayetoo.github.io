@@ -1,16 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Codinglog
+title: For studying algorithms, C++ and Swift
+description: 알고리즘과 C++, Swift에 관한 코드를 남기기 위한 블로그입니다.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
-show_hero: true
+  - C++
+  - Swift
+  - Algorithms
+email: rhkdgus0826@gmail.com
+disqus_username: 최광현
+show_hero: false
 
 
 # Social Media Settings

@@ -1,12 +1,10 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Long live the King!
+title: Blog for C++/Swift
+description: This blog for studying algorithms, C++ and Swift.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - Algorithm
+  - C++
+  - Swift
+email: rhkdgus0826@gmail.com
+disqus_username: papayetoo
 show_hero: true
