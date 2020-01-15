@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>For studying algorithms, C++ and Swift</title>
-    <description>알고리즘과 C++, Swift에 관한 코드를 남기기 위한 블로그입니다.</description>
+    <title>Blog for C++/Swift</title>
+    <description>This blog for studying algorithms, C++ and Swift.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jan 2020 18:51:44 +0900</pubDate>
-    <lastBuildDate>Wed, 15 Jan 2020 18:51:44 +0900</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2020 19:37:57 +0900</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2020 19:37:57 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>

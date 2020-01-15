@@ -1,15 +1,14 @@
 # Site Settings
-name: Codinglog
-title: For studying algorithms, C++ and Swift
-description: 알고리즘과 C++, Swift에 관한 코드를 남기기 위한 블로그입니다.
+name: Long live the King!
+title: Blog for C++/Swift
+description: This blog for studying algorithms, C++ and Swift.
 tags:
-  - blog
+  - Algorithm
   - C++
   - Swift
-  - Algorithms
 email: rhkdgus0826@gmail.com
-disqus_username: 최광현
-show_hero: false
+disqus_username: papayetoo
+show_hero: true
 
 
 # Social Media Settings
